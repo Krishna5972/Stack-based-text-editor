@@ -1,0 +1,18 @@
+Plan
+
+Use defualt ds, use rope, use gapbuffer
+
+Finally create tabular column to display the time complexities and space complexities
+
+show which is better of all three and why
+
+
+
+19/06 : Python's built-in string data type isn't ideal for implementing a text editor 
+because strings in Python are immutable, meaning every string operation like insertion,
+ deletion, or concatenation creates a new string
+
+
+ Create a text-editor gui, using defualt ds of python
+
+
